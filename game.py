@@ -47,3 +47,7 @@ if count==finish:
 	print "\nYou finished the game in "+str(time_e)	
 
 raw_input("Press enter to exit. :)")
+
+''' 
+No improvements required!
+'''
